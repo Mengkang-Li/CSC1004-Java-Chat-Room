@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CSC1004-Java-JavaChatRoom.iml" filepath="$PROJECT_DIR$/.idea/CSC1004-Java-JavaChatRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaChatRoom/ChatRoomPage/ChatRoomPage.iml" filepath="$PROJECT_DIR$/JavaChatRoom/ChatRoomPage/ChatRoomPage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaChatRoom/kernel.iml" filepath="$PROJECT_DIR$/JavaChatRoom/kernel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaChatRoom/serverPart/serverPart.iml" filepath="$PROJECT_DIR$/JavaChatRoom/serverPart/serverPart.iml" />
+    </modules>
+  </component>
+</project>

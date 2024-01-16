@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane prefHeight="581.0" prefWidth="733.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Pages.HistoryPage">
+   <children>
+      <ScrollPane maxHeight="1.7976931348623157E308" prefHeight="581.0" prefWidth="733.0">
+         <content>
+            <VBox fx:id="historyVBox" />
+         </content>
+      </ScrollPane>
+   </children>
+</AnchorPane>

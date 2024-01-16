@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Pages.RegisterPage">
+   <children>
+      <ImageView fitHeight="479.0" fitWidth="717.0" opacity="0.51" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Images/Register.gif" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="againImage" fitHeight="150.0" fitWidth="200.0" layoutX="542.0" layoutY="62.0" opacity="0.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Images/try_again.png" />
+         </image>
+      </ImageView>
+      <Text fill="#009dff" layoutX="161.0" layoutY="81.0" strokeType="OUTSIDE" strokeWidth="0.0" text="User Name">
+         <font>
+            <Font size="18.0" />
+         </font></Text>
+      <Text fill="#009dff" layoutX="190.0" layoutY="122.0" strokeType="OUTSIDE" strokeWidth="0.0" text="ID">
+         <font>
+            <Font size="18.0" />
+         </font></Text>
+      <Text fill="#009dff" layoutX="169.0" layoutY="168.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Password">
+         <font>
+            <Font size="18.0" />
+         </font></Text>
+      <Text fill="#009dff" layoutX="143.0" layoutY="215.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Gender" textAlignment="CENTER" wrappingWidth="133.4461669921875">
+         <font>
+            <Font size="18.0" />
+         </font></Text>
+      <TextField fx:id="UserName" layoutX="310.0" layoutY="62.0" style="-fx-background-color: pink;" />
+      <TextField fx:id="ID" layoutX="310.0" layoutY="103.0" style="-fx-background-color: pink;" />
+      <TextField fx:id="Password" layoutX="310.0" layoutY="149.0" style="-fx-background-color: pink;" />
+      <Button fx:id="Register" layoutX="571.0" layoutY="288.0" mnemonicParsing="false" onAction="#ConfirmRegister" prefHeight="73.0" prefWidth="124.0" style="-fx-background-color: pink;" text="Register" textFill="#009dff" />
+      <TextField fx:id="PhoneNumber" layoutX="310.0" layoutY="195.0" style="-fx-background-color: pink;" />
+      <Label fx:id="againLabel" alignment="CENTER" layoutX="541.0" layoutY="176.0" prefHeight="25.0" prefWidth="143.0" text="Try again." textFill="#ffc2cd" visible="false">
+         <font>
+            <Font size="29.0" />
+         </font></Label>
+      <Text fill="#009dff" layoutX="143.0" layoutY="264.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Address" textAlignment="CENTER" wrappingWidth="133.4461669921875">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <TextField fx:id="Address" layoutX="310.0" layoutY="244.0" style="-fx-background-color: pink;" />
+      <TextField fx:id="Age" layoutX="310.0" layoutY="288.0" style="-fx-background-color: pink;" />
+      <Text fill="#009dff" layoutX="143.0" layoutY="307.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Age" textAlignment="CENTER" wrappingWidth="133.4461669921875">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

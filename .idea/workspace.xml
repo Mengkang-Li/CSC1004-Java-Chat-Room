@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ChatRoomPage:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e91fb0b-155e-430a-a2be-2234b584f8f8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChatRoom/ChatRoomPage/images/4576918c-f4e6-4c09-8ccc-79c40b14b1ae.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChatRoom/ChatRoomPage/images/9f95816a-270a-4e45-96eb-bc519a1d78d1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChatRoom/ChatRoomPage/images/de2952b0-61e6-4e35-82ba-e8ab771fc0f3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChatRoom/ChatRoomPage/src/main/java/Common/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaChatRoom/ChatRoomPage/src/main/java/Common/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChatRoom/ChatRoomPage/src/main/java/Pages/HistoryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaChatRoom/ChatRoomPage/src/main/java/Pages/HistoryPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChatRoom/ChatRoomPage/src/main/java/Pages/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaChatRoom/ChatRoomPage/src/main/java/Pages/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChatRoom/ChatRoomPage/src/main/resources/Pages/RegisterPage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaChatRoom/ChatRoomPage/src/main/resources/Pages/RegisterPage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChatRoom/serverPart/Videos/66aecdaf-b42b-4cad-89a0-f8277a8f65d7.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChatRoom/serverPart/src/main/java/Common/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaChatRoom/serverPart/src/main/java/Common/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChatRoom/serverPart/src/main/java/serverMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaChatRoom/serverPart/src/main/java/serverMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChatRoom/serverPart/src/main/java/serverRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaChatRoom/serverPart/src/main/java/serverRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChatRoom/serverPart/target/classes/Common/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaChatRoom/serverPart/target/classes/Common/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChatRoom/serverPart/target/classes/serverMain$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaChatRoom/serverPart/target/classes/serverMain$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChatRoom/serverPart/target/classes/serverMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaChatRoom/serverPart/target/classes/serverMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaChatRoom/serverPart/target/classes/serverRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaChatRoom/serverPart/target/classes/serverRegister.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2N5fRNdwOj5kkua8DmIisFd6YRV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mengkang Li/Desktop/CODE&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.run1">
+    <configuration name="HaveATry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pages.HaveATry" />
+      <module name="ChatRoomPage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFunc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pages.MainFunc" />
+      <module name="ChatRoomPage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pages.run1" />
+      <module name="ChatRoomPage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pages.run2" />
+      <module name="ChatRoomPage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serverMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="serverMain" />
+      <module name="serverPart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.run1" />
+        <item itemvalue="Application.serverMain" />
+        <item itemvalue="Application.MainFunc" />
+        <item itemvalue="Application.run2" />
+        <item itemvalue="Application.HaveATry" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e91fb0b-155e-430a-a2be-2234b584f8f8" name="Changes" comment="" />
+      <created>1678958854557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678958854557</updated>
+      <workItem from="1678958856634" duration="29000" />
+      <workItem from="1679129996417" duration="210000" />
+      <workItem from="1680926473963" duration="1506000" />
+      <workItem from="1680928098441" duration="2320000" />
+      <workItem from="1680934704188" duration="2056000" />
+      <workItem from="1680936776934" duration="4077000" />
+      <workItem from="1680952973456" duration="595000" />
+      <workItem from="1681029716728" duration="2904000" />
+      <workItem from="1681197802180" duration="6509000" />
+      <workItem from="1681207040443" duration="29000" />
+      <workItem from="1681637003013" duration="7137000" />
+      <workItem from="1681648010271" duration="2153000" />
+      <workItem from="1681912075034" duration="4959000" />
+      <workItem from="1681959999211" duration="2864000" />
+      <workItem from="1681976290443" duration="693000" />
+      <workItem from="1681976998478" duration="772000" />
+      <workItem from="1681985397635" duration="224000" />
+      <workItem from="1681986716616" duration="78000" />
+      <workItem from="1682132898251" duration="91000" />
+      <workItem from="1682133142036" duration="471000" />
+      <workItem from="1682133799545" duration="401000" />
+      <workItem from="1682134322081" duration="331000" />
+      <workItem from="1682134782572" duration="15000" />
+      <workItem from="1682333348197" duration="2000" />
+      <workItem from="1682412741446" duration="4000" />
+      <workItem from="1682412792069" duration="8000" />
+      <workItem from="1683104960909" duration="6380000" />
+      <workItem from="1683119610008" duration="2200000" />
+      <workItem from="1683181334480" duration="6859000" />
+      <workItem from="1683251144281" duration="4253000" />
+      <workItem from="1683255478870" duration="621000" />
+      <workItem from="1683256482402" duration="6287000" />
+      <workItem from="1683267475166" duration="594000" />
+      <workItem from="1683269016934" duration="4229000" />
+      <workItem from="1683273610572" duration="53000" />
+      <workItem from="1683430415764" duration="179000" />
+      <workItem from="1683442455743" duration="2153000" />
+      <workItem from="1683450888620" duration="728000" />
+      <workItem from="1683538926853" duration="1044000" />
+      <workItem from="1683559884986" duration="381000" />
+      <workItem from="1683560490465" duration="743000" />
+      <workItem from="1683561286791" duration="738000" />
+      <workItem from="1683562500309" duration="94000" />
+      <workItem from="1683613338561" duration="91000" />
+      <workItem from="1683625641225" duration="84000" />
+      <workItem from="1683626104335" duration="2206000" />
+      <workItem from="1683639298855" duration="439000" />
+      <workItem from="1683639751797" duration="191000" />
+      <workItem from="1683640025167" duration="703000" />
+      <workItem from="1683640993854" duration="509000" />
+      <workItem from="1683864158895" duration="17000" />
+      <workItem from="1683864190132" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

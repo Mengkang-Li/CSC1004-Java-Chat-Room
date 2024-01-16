@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org-openide-awt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/jdk1.8.0_321/lib/visualvm/platform/modules/org-openide-awt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
